@@ -5,6 +5,10 @@
 num1 = float(input("Give me the first number : "))
 num2 = float(input("Give me the second number :"))
 
+# We take an operator
+
+operator = input("Give me an operator like +,-,*,/ :")
+
 # Addition
 
 
