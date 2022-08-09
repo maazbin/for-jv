@@ -9,6 +9,6 @@ numbers = [1,2,3,99,-7] #list of numbers
 # print(numbers[-3])
 
 for  i in range(len(numbers)):
-    print(numbers[len(numbers)-1], " i here is ", i)
+    print(numbers[(len(numbers)-1)-i], " i here is ", i)
 
 
