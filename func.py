@@ -1,19 +1,24 @@
 
-#hello function
+# #hello function
 def hello():
     print('hello,world')
 
 
+# returning a string
+def helloReeturn():
+    return "I am a function which returns hello !"
 
-def sum_of_fives():
-    return 5+5
+#calling function
+x = helloReeturn()
 
-def sum_of_numbers(number):
-    return number + number
+print(x)
+
+# def sum_of_numbers(number):
+#     return number + number
 
 
-sums = sum_of_numbers(10)
-print(sums)
+# sums = sum_of_numbers(10)
+# print(sums)
 
     # print("hi",name)
 
