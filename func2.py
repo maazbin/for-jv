@@ -13,5 +13,7 @@ def count_num(num):
 
 
 num_list = [5,8,9,7,6]
-count_of_num = count_num(num_list)
-print(count_of_num)
+
+x = count_num([3,58,9,8])
+
+print(x)
