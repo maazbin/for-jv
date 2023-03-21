@@ -1,1 +1,1 @@
-hello from the file which is not in current directory
+ blah blah new write
